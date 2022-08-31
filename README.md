@@ -12,7 +12,9 @@
 
 - This site is accessible for screen readers and the code is easy for a developer to understand
 
-
+## Screenshots
+![website screenshots](./assets/images/CH1-image1.jpg)
+![](./assets/images/CH1-image2.jpg)
 
 ## License
 
